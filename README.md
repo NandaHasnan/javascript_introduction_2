@@ -1,19 +1,10 @@
 Here's a README file based on the contents of the JavaScript files you've provided:
 
-```markdown
+
 # JavaScript Array and Search Methods Project
 
 ## Introduction
 This project demonstrates various JavaScript methods related to arrays, such as manipulating array elements, filtering arrays, and searching for specific elements within arrays. It also includes custom functions to handle specific operations like searching for names and filtering numerical values within a given range.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Files](#files)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 To run this project, you need Node.js installed on your system. Download and install it from [here](https://nodejs.org).
